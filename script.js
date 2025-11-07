@@ -1,1 +1,0 @@
-console.log("Sitio Leinad cargado correctamente.");
